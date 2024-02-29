@@ -1,4 +1,4 @@
-# CSS Exercise
+## CSS Exercise
 
 ### Vertical Navbar
 
